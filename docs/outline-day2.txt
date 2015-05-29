@@ -1,0 +1,31 @@
+
+-- Scala `Object` 
+   Singletons  ✓
+   Companion Objects ✓
+
+-- The magic `apply` method ✓
+
+-- Scala `Option` ✓
+   `Some`
+   `None`
+
+-- Scala Tuples  ✓
+
+-- Basic Collections
+   Lists
+   Maps
+   Sets
+   Arrays and Repeated Parameters
+   Strings
+   Ranges
+   Streams
+
+-- Higher Order Functions
+   Creating a function ✓
+   What is actually a function? ✓
+   Is it a method or is it a function? ✓
+   Closures ✓
+   Functions returning other functions ✓
+   Currying ✓
+   By-Name Parameters (skip)
+

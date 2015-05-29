@@ -2,7 +2,6 @@ Daniel Hinojosa
 dhinojosa@evolutionnext.com
 http://www.github.com/dhinojosa/scalatraining-20150527
 
-
 - Introduction ✓
 
   What is Scala?
@@ -16,37 +15,42 @@ http://www.github.com/dhinojosa/scalatraining-20150527
   Installing Scala ✓
   Using the REPL ✓
   Creating a script in Scala ✓
-  Creating an application in Scala
-  Creating an application in SBT (Added)
+  Creating an application in Scala ✓
+    scalac
+    scala 
+    java -cp target;C:\Users\user01\Downloads\scala-library.jar com.xyzcorp.Runner
+    classpath
+  Creating an application in SBT (Added) ✓
 
-Lab: Creating a compiled class
+Lab: Creating a compiled class ✓
+
 - Scala Basics 
-  `val` and `var`
-  Bending Variables and Values to your Will!
-  Byte, Short, Int, Long, Floats, Booleans, and Doubles
-  if, else if, else, while, do while, for "loops"
-  String formatting and interpolation
-  Any, AnyVal, AnyRef
+  `val` and `var` ✓
+  Byte, Short, Int, Long, Floats, Booleans, and Doubles ✓
+  Bending Variables and Values to your Will! ✓
+  if, else if, else, while, do while, for "loops" ✓
+  String formatting and interpolation ✓
+  Any, AnyVal, AnyRef ✓
 
 - Scala Methods
-  Basic Methods
-  Different Return Types
-  About `Unit` and Conventions
-  Recursion
-  Name Flexibility
-  Right-Associative Colons
+  Basic Methods  ✓
+  Different Return Types ✓
+  About `Unit` and Conventions ✓
+  Recursion  ✓
+  Name Flexibility ✓
+  Right-Associative Colons ✓
 
 Lab: Running shell commands: 
    1. capturing return codes
    2. capturing script outputs
 
 - Scala Classes
-  Classes
-  Constructors
-  Case Classes
-  Subclassing
-  Determining Instances
-  Casting
-  Preconditions
+  Classes  ✓
+  Constructors ✓
+  Case Classes ✓
+  Subclassing ✓
+  Determining Instances, asInstanceOf, isInstanceOf ✓
+  Casting ✓
+  Preconditions ✓
 
 Lab: Calling JDBC driver to fetch data from a DB
